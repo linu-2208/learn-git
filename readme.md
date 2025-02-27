@@ -9,3 +9,4 @@ This is the first commit fron main branch
 # Rebase
 REbase is NOTHER MERGE STAtgay
 * Developing still
+* Development is completed
