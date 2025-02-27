@@ -16,3 +16,6 @@ REbase is NOTHER MERGE STAtgay
 * adding more code
 * nstill more code
 * development is completed
+
+## merge conflict
+* this is from developer
