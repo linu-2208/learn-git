@@ -10,3 +10,6 @@ This is the first commit fron main branch
 REbase is NOTHER MERGE STAtgay
 * Developing still
 * Development is completed
+
+## Squash
+* started development
